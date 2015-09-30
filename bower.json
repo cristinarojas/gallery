@@ -1,0 +1,12 @@
+{
+  "name": "Gallery",
+  "version": "0.0.1",
+  "author": "Cristina Elizabeth Rojas zamora",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "latest",
+    "normalize-css": "latest",
+    "bootstrap": "latest",
+    "jquery": "latest"
+  }
+}
